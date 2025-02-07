@@ -1,8 +1,9 @@
 # BTCBR
-Official BitcoinBR (BTCBR) smart contracts (Chains)
+Official BitcoinBR Community (BTCBR) smart contracts
 
 BitcoinBR [OLD] (BTCBR) on Binance smart chain (BSC) [Community Token]
 Contract: 0x0cf8e180350253271f4b917ccfb0accc4862f262
+
 BTCBR (Bitcoin Brasil) é uma criptomoeda baseada na tecnologia blockchain e na rede BNB Smart Chain (BSC). Seu contrato inteligente foi desenvolvido com a intenção de proporcionar segurança, transparência e eficiência nas transações financeiras digitais.
 
 Características do BTCBR
